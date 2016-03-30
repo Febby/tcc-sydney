@@ -7177,6 +7177,14 @@ input[class*="_limit"] {
 }
 
 @media only screen and (max-width: 767px) {
+    //ctc logo section
+    .ctc-section img {width:150px;}
+    //sydney logo
+    .m_sydney{
+        margin-top: 80px;
+        
+        img {width:180px;}
+    }
     .tabs_nav .active a {
         border-right-color:#41bedd !important
     }
